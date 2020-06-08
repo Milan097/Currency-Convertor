@@ -129,7 +129,7 @@ float convertFromINR(float num) {
 
 void appInfo() {
 	printf("\n\n##################\tCURRENCY CONVERTER\t##################\n");
-	printf("\t     Developer : Milan Thummar , Jay Thanki\n\n");
+	printf("\t\t     Developer : Milan Thummar \n\n");
 	printf("Input format:\n");
 	printf("\t  Amount Currency1 = ? Currency2\n\n");
 	printf("Amount --> Amount to be convert from Currency1 to Currency2\n");

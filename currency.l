@@ -12,6 +12,7 @@ DIGIT	[0-9]
 
 /* Rules Section Starts */
 
+%%
 
 {DIGIT}+									{ 
 												yylval.d = atof(yytext);
